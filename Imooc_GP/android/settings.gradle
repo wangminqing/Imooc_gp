@@ -1,0 +1,3 @@
+rootProject.name = 'Imooc_GP'
+
+include ':app'
